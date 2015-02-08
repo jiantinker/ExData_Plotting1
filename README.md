@@ -1,5 +1,10 @@
-## Introduction
+This is the Project 1 for exploratory data analysis
 
+I added plot1.R, plot2.R, plot3.R, plot4.R, plot1.pgn, plot2.pgn, plot3.pgn, plot4.pgn.
+
+See more details in the following paragraphs:
+
+## Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
