@@ -1,6 +1,6 @@
 This is the Project 1 for exploratory data analysis
 
-I added plot1.R, plot2.R, plot3.R, plot4.R, plot1.pgn, plot2.pgn, plot3.pgn, plot4.pgn.
+I added plot1.R, plot2.R, plot3.R, plot4.R, plot1.png, plot2.png, plot3.png, plot4.png.
 
 See more details in the following paragraphs:
 
